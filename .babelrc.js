@@ -18,6 +18,6 @@ module.exports = {
   ],
   ignore: [
     'dist/*.js',
-    'packages/**/*.js'
+    'packages/**/*.jz'
   ]
 }
